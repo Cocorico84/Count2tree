@@ -10,7 +10,7 @@ aniso8601==8.0.0
 certifi==2022.12.7
 
 Click==7.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 idna==2.8
